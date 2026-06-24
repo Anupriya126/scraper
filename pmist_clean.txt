@@ -17,6 +17,8 @@ LINK: Student Login → https://pmiststudentportal.in/
 LINK: Fees Dues Intimation Letter (Odd Semester) 2026-27 → https://www.pmu.edu/assets-v2/pdf/Fees%20Dues%20Intimation%20Letter%20(Odd%20Semester)%202026-27.pdf
 LINK: AICTE Scholarship → https://www.aicte.gov.in/schemes/students-development-schemes
 LINK: International Conference WASTE_CEDGH2026 - Call for Papers → https://pmu.edu/internationalconference/WASTE-CEDGH2026/
+LINK: Ph.D. Admission 2026 → https://pmu.edu/assets-v2/pdf/Ph.D%20Admission-2026.pdf
+LINK: End Semester Examination Time Table May 2026 → https://pmu.edu/examination/
 The World Needs Us → https://youtu.be/1Jiy4WjyErc?si=L7pXTsXQqhgsq98V
 3rd International Conference on ADVANCED SOLID AND LIQUID WASTE TECHNOLOGIES FOR CIRCULAR ECONOMY, DECARBONISATION, AND GROUNDWATER HEALTH SUSTAINABILITY
 More → https://pmu.edu/events/3384/3rd-international-conference-on-(waste-cedgh-2026).aspx
@@ -50,6 +52,7 @@ LINK: AICTE STUDENT AND FACULTY FEEDBACK → https://smartcookie.in/AICTE-360deg
 LINK: DUFFL DIGITAL → https://duffldigital.com/
 Fees Dues Intimation Letter (Odd Semester) 2026-27
 International Conference WASTE_CEDGH2026 - Call for Papers
+End Semester Examination Time Table May 2026
 Pursue your career-defining degree at PMIST (Periyar Maniammai Institute of Science & Technology), a reputed Deemed-to-be University offering a professional and supportive environment. With over 100 industry tie-ups, 100% placement assistance, and value-added certificate programmes, you can be assured of a promising future.
 COMPUTING SCIENCE & APPLICATIONS
 Aerospace Engineering with specialization in Unmanned Aerial Vehicle
@@ -70,19 +73,481 @@ GRIEVANCES REDRESSAL COMMITTEE
 STUDENT GRIEVANCE REDDRESSAL COMMITTEE
 UGC ONLINE GRIEVANCE AND REDRESSAL SYSTEM
 AICTE STUDENT AND FACULTY FEEDBACK
-PAGE URL: https://pmu.edu/campus/ict-facilities.aspx
-PAGE TITLE: ICT Facilities | Periyar Maniammai Institute of Science & Technology
-H1: SYSTEM AND NETWORK ADMINISTRATION
-LINK: ABOUT → https://pmu.edu/campus/ict-facilities.aspx#
-LINK: ACADEMICS → https://pmu.edu/campus/ict-facilities.aspx#
-LINK: RESEARCH → https://pmu.edu/campus/ict-facilities.aspx#
-LINK: IQAC → https://pmu.edu/campus/ict-facilities.aspx#
-LINK: FACILITIES → https://pmu.edu/campus/ict-facilities.aspx#
-LINK: MORE + → https://pmu.edu/campus/ict-facilities.aspx#
-SYSTEM AND NETWORK ADMINISTRATION
-Periyar Maniammai Institute of Science and Technology recognizes the vital role that Information Technology plays in fulfilling the Institution’s mission and supporting related administrative activities, as well as the importance of protecting information in all forms within an academic environment. As digital information is increasingly created, accessed, and shared by students, faculty, and staff both within and outside the Institution, greater emphasis is placed on safeguarding information and the technology resources that support it. Ensuring the usability, reliability, and availability of information and IT resources remains a primary concern.
-System and Network Administration governs the use of PMIST computing and IT communication resources, including those administered by departments such as the Library, Computer Laboratories, Administrative Offices, Hostels, and Guest Houses, wherever network facilities are provided. All faculty members, students, staff, departments, authorized visitors, visiting faculty, and other permitted users of the IT infrastructure are required to comply with institutional guidelines. Violations of PMIST rules by any member may result in disciplinary action by the Institution authorities. E-mail accounts are provided to employees and students under the E-mail Usage Policy, which is periodically reviewed and updated as required, while the Database Usage Policy is governed by the e-Governance division of PMIST.
-The IT infrastructure at PMIST is distributed across 14 buildings interconnected through a high-speed network. The computer network is built on switching platforms from Cisco and DAX, operating with a bandwidth of 1 Gbps, and supports more than 1500 IP-enabled devices. Network services are made available 24/7 across the campus to meet the demands of research, teaching, and learning activities. Over 77 Wi-Fi access points are deployed throughout the campus to provide seamless connectivity to students, faculty, and guests, including high-speed internet access in hostel rooms through a well-planned wireless network. The Institution supports 4469 students with 1779 computers available for academic purposes, maintaining a student-to-computer ratio of 3:1.
-The server rooms at PMIST are designed with advanced infrastructure features, including environmental control systems, fire suppression mechanisms, structured cable management, power system redundancies, and optimized airflow planning. These facilities are supported by 15 KVA × 2 UPS systems with battery backup to ensure uninterrupted operations. The network infrastructure includes routers from Cisco and Juniper Networks, core switches from Cisco and DAX, and distribution switches from Cisco, DAX, and D-Link, along with Wi-Fi controllers for centralized management. CCTV surveillance is implemented using IP cameras with NVR storage. All campus buildings are interconnected through underground Fiber-optic connectivity, and the backbone internet service is provided through the National Knowledge Network (NKN).
-The comprehensive IT infrastructure of PMIST includes HP Pro Tower 280 i7 (12th Generation) systems, comprising three physical servers with a storage capacity of 11 TB, made available for academic and research use. The campus IT facilities are secured through advanced security solutions, including enterprise firewall systems such as Dell Precision 3680, along with networking devices from Cisco and Juniper. In addition, Kaspersky Internet Security is implemented to protect against malware, cyber threats, and other security vulnerabilities, ensuring a safe and reliable digital environment for all users.
-A secure, reliable, and future-ready digital environment is ensured at Periyar Maniammai Institute of Science and Technology through scalable infrastructure and comprehensive security mechanisms, effectively supporting its academic and administrative objectives.
+PAGE URL: https://pmu.edu/events/3392/call-for-papers.aspx
+PAGE TITLE: Events | Periyar Maniammai Institute of Science & Technology
+LINK: ABOUT → https://pmu.edu/events/3392/call-for-papers.aspx#
+LINK: ACADEMICS → https://pmu.edu/events/3392/call-for-papers.aspx#
+LINK: RESEARCH → https://pmu.edu/events/3392/call-for-papers.aspx#
+LINK: IQAC → https://pmu.edu/events/3392/call-for-papers.aspx#
+LINK: FACILITIES → https://pmu.edu/events/3392/call-for-papers.aspx#
+LINK: MORE + → https://pmu.edu/events/3392/call-for-papers.aspx#
+Centre for Energy and Environment
+The Centre for Energy and Environment and the Faculty of Engineering and Technology at Periyar Maniammai Institute of Science & Technology are organizing the 3rd International Conference on Advanced Solid and Liquid Waste Technologies for Circular Economy, Decarbonisation, and Groundwater Health Sustainability (WASTE-CEDGH 2026) on 05 September 2026. The conference provides a global platform for researchers, academicians, and industry experts to share innovative research and sustainable solutions in waste management, renewable energy, circular economy, and environmental sustainability. Accepted papers will be considered for publication in the Scopus-indexed Journal of Solid Waste Technology and Management (JSWTM). For More Details visit : https://pmu.edu/internationalconference/WASTE-CEDGH2026/
+PAGE URL: https://pmu.edu/events/pdf
+You do not have permission to access this document.
+PAGE URL: https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx
+PAGE TITLE: Faculty of Architecture and Planning | Periyar Maniammai Institute of Science & Technology
+H3: Faculty of Architecture and Planning
+H4: FACULTY OF ARCHITECTURE AND PLANNING
+LINK: ABOUT → https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx#
+LINK: RESEARCH → https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx#
+LINK: IQAC → https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx#
+LINK: FACILITIES → https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx#
+LINK: MORE + → https://pmu.edu/about/FacultyOfArchitectureAndPlanning.aspx#
+Architecture → https://www.pmu.edu/department-of-architecture/
+FACULTY OF ARCHITECTURE AND PLANNING
+Faculty of Architecture and Planning
+" The Faculty of Architecture and Planning offers over 30 years of excellence in architectural education, emphasizing creativity, sustainability, and interdisciplinary collaboration. With a focus on real-world learning and alignment with UN SDGs, we prepare students to address global design challenges innovatively."
+Welcome to the Faculty of Architecture and Planning! As we celebrate over 30 years of excellence in architectural education, I am delighted to connect with our dynamic community of students, faculty, alumni, and partners who contribute to our mission of advancing architectural and planning education.
+Our faculty is committed to fostering a learning environment where creativity, critical thinking, and sustainability are at the heart of everything we do. We offer a well-rounded education that combines rigorous study with hands-on, practical experience, integrating modern practices with the insights of traditional design wisdom. Our mission is to prepare future professionals to meet societys evolving needs with resilience, vision, and purpose.
+With a strong emphasis on interdisciplinary collaboration, we provide students with opportunities to work alongside peers in engineering, technology, and management, encouraging holistic approaches to complex design challenges.
+Our curriculum prepares students to succeed in multidisciplinary domains from product design to large-scale regional planning-equipping them with versatile skills that enable them to address diverse design problems innovatively.
+Aligned with the United Nations Sustainable Development Goals (SDGs), our programs address critical issues such as climate change, global warming, disaster resilience, and sustainability across scales, from micro to macro levels. Additionally, we emphasize 'earn while you learn' opportunities, giving students real-world exposure to professional practice while they study. Lifelong learning is a cornerstone of our approach, with our faculty and alumni mentors providing guidance and support as students transition from the classroom to impactful careers.
+We invite you to explore our website to learn more about our programs and initiatives, and we welcome you to join us on this journey of sustainable design, interdisciplinary exploration, and societal impact.
+PAGE URL: https://pmu.edu/campus/eYantra.aspx
+PAGE TITLE: E Yantra | Periyar Maniammai Institute of Science & Technology
+LINK: ABOUT → https://pmu.edu/campus/eYantra.aspx#
+LINK: ACADEMICS → https://pmu.edu/campus/eYantra.aspx#
+LINK: RESEARCH → https://pmu.edu/campus/eYantra.aspx#
+LINK: IQAC → https://pmu.edu/campus/eYantra.aspx#
+LINK: FACILITIES → https://pmu.edu/campus/eYantra.aspx#
+LINK: MORE + → https://pmu.edu/campus/eYantra.aspx#
+Periyar Maniammai Institute of Science and Technology, Vallam is pioneer in thanjavur and one among 37 institutions in Tamilnadu to start the e-yantra laboratory joint hands with IIT Bombay. The e Yantra Lab, is a part of PMIST and it has been established with latest robotic equipment from M/s NEXROBOTICS pvt ltd, Mumbai.
+Project e-Yantra is an initiative to spread education in embedded systems and Robotics by IIT Bombay sponsored by Ministry of Human Resource Development through the National Mission on Education through ICT (NMEICT). The objective is to provide hands-on learning to engineering students who have limited access to labs and mentors. The goal is to create the next generation of (Embedded systems) engineers in India with a practical outlook to take on challenging problems and provide solutions.
+Better Final Year Projects In The Area Of Embedded Systems And Robotics.
+Access To A Vast Resource Of Open Source Projects And Tutorials.
+Sustainability Of The Established Lab Through Participation In The E Yantra Idea Competition
+An Opportunity To Setup Agriculture Based IoT Test Bed Through The E-Yantra Farm Setup Initiative.
+Better Prospects For A College To Gain Visibility And Attract Local Industries For Internship And Placement.
+Integration Of Hands On Experiments With Regular Theory Sessions Through Teacher Manuals Shared Via Resource Portal.
+E Yantra Engages Project Based Training To Implement A Solution To Real World Problem
+PAGE URL: https://pmu.edu/campus/E-Governance.aspx
+PAGE TITLE: E-Governance | Periyar Maniammai Institute of Science & Technology
+H1: PMIST E-Governance Manual View
+LINK: ABOUT → https://pmu.edu/campus/E-Governance.aspx#
+LINK: ACADEMICS → https://pmu.edu/campus/E-Governance.aspx#
+LINK: RESEARCH → https://pmu.edu/campus/E-Governance.aspx#
+LINK: IQAC → https://pmu.edu/campus/E-Governance.aspx#
+LINK: FACILITIES → https://pmu.edu/campus/E-Governance.aspx#
+LINK: MORE + → https://pmu.edu/campus/E-Governance.aspx#
+LINK: View → https://online.fliphtml5.com/kneth/olme/#p=14
+PMIST is using home grown software named BRAIN (Brilliant Resource Academic Institution) to manage the institution activities for two decades. A dedicated team of programmers are appointed to develop the software. This ERP is developed with ASP.Net as front end and SQL Server as Back end. It has the following modules
+PMIST E-Governance Manual View
+It facilitates student's admission. It captures details including personal information, marks details, fees payment and other relevant information for admission.
+Every year students are given with scholarship, this module helps to store all the scholarship details and enables the scholarship allotment for the students. Also this module takes care of the scholarship renewal.
+It provides facility for storing all Outcome Based Education related information like Department Vision, Mission, PEO, PO, PSO, curriculum entry, course entry etc.
+This module enables the faculty members to enter the course plan details, student's attendance and students' marks for the course which they handle.
+This module captures details of all books purchased for the library. Also it takes care of the students/staff book borrowing and book return.
+All exam related activities like, fees payment for exams, hall ticket generation, hall plan generation, marks entry, grade generation and result preparation are done by using this module.
+It helps the warden to manage the rooms availability in the hostel. Room allotment is made when a student is admitted in the hostel after fees payment. Also the students can apply for an out pass using this module whenever they want to go out of the hostel.
+It helps the transport in-charge to manage the bus details and route details. Students are assigned for the specific route bus by using this module
+Provision for fees posting management is done using this module. All fees payments, including online payment are performed by using this module.
+This module facilitates the faculty members to upload the e-contents developed by them. Students can view the e-contents uploaded by the faculty members through the intranet facility.
+Whenever a staff is inducted in the Institution the details including their personal information and their salary band are captured using this module.
+This module is for the staff to apply leave, OD, and permission to the relevant authorities. Authorities in turn approve the same.
+Staff attendance is captured using the punching system installed in the campus. Based on the presence and leave details salary is calculated for each staff.
+It is used for storing all the visitors/vehicle entering the campus.
+PAGE URL: https://pmu.edu/campus/life-at-pmist.aspx
+PAGE TITLE: Life at PMIST | Periyar Maniammai Institute of Science & Technology
+H1: A CONDUCIVE CAMPUS FOR GROWTH AND INNOVATION
+H1: A Vibrant and Inclusive Student Experience
+LINK: ABOUT → https://pmu.edu/campus/life-at-pmist.aspx#
+LINK: ACADEMICS → https://pmu.edu/campus/life-at-pmist.aspx#
+LINK: RESEARCH → https://pmu.edu/campus/life-at-pmist.aspx#
+LINK: IQAC → https://pmu.edu/campus/life-at-pmist.aspx#
+LINK: FACILITIES → https://pmu.edu/campus/life-at-pmist.aspx#
+LINK: MORE + → https://pmu.edu/campus/life-at-pmist.aspx#
+A CONDUCIVE CAMPUS FOR GROWTH AND INNOVATION
+PMIST is an Eco friendly, Energy efficient, Green & Clean, Ragging free Conducive environment for student's life.
+The Periyar Maniammai Institute of Science & Technology is located on a land area of 114.85 acres, which once were barren and dry with a scarce population in rural areas. This land has been transformed into a land of thick foliages, green vegetation and a technology-hub. It is an energy efficient, pollution-free, zero waste and well-laid campus with an ambience for learning. By its location, the campus offers an ideal environment for teaching, research and living. Though situated in a rural setting, it has all the advantages of any urban location. The entire campus is a spectacle of Green meadow, shady trees and canopy of creepers.
+A Vibrant and Inclusive Student Experience
+PMIST is an Eco friendly, Energy efficient, Green & Clean, Ragging free Conducive environment for student's life. The University is located on a land area of 114.85 acres, which once were barren and dry with scarce population in rural area.
+PAGE URL: https://pmu.edu/PMIST-Admin/CampusImages/sliderimg420250320004356.jpg
+PAGE TITLE: sliderimg420250320004356.jpg (294×154)
+PAGE URL: https://pmu.edu/PMIST-Admin/CampusImages/FA3A2272120250404032619.png
+The requested document was not found on this server.
+PAGE URL: https://pmu.edu/PMIST-Admin/CampusImages/sliderimg120250320004356.jpg
+PAGE TITLE: sliderimg120250320004356.jpg (294×154)
+PAGE URL: https://pmu.edu/PMIST-Admin/CampusImages/sliderimg320250320004356.jpg
+PAGE TITLE: sliderimg320250320004356.jpg (294×154)
+PAGE URL: https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx
+PAGE TITLE: Faculty of Computing Science and Applications | Periyar Maniammai Institute of Science & Technology
+H3: Faculty of Computing Science and Applications
+H4: FACULTY OF COMPUTING SCIENCE AND APPLICATIONS
+LINK: ABOUT → https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx#
+LINK: RESEARCH → https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx#
+LINK: IQAC → https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx#
+LINK: FACILITIES → https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx#
+LINK: MORE + → https://pmu.edu/about/FacultyOfComputingScienceAndApplications.aspx#
+Informatics → https://www.pmu.edu/department-of-informatics/
+Computer Science → https://www.pmu.edu/department-of-computer-science/
+Computer Application → https://www.pmu.edu/department-of-computer-applications/
+FACULTY OF COMPUTING SCIENCE AND APPLICATIONS
+Faculty of Computing Science and Applications
+" Faculty of Computing Science and Applications empowers students with industry-relevant programs, advanced infrastructure, and hands-on learning, fostering innovation and career success in the evolving IT field."
+Welcome to the Faculty of Computing Science and Applications (FCSA) at Periyar Maniammai Institute of Science and Technology (Deemed to be University).
+The field of Computer Science is central to the development of advanced technology, and at our faculty, we offer a diverse curriculum that is carefully crafted and regularly updated to align with the ever evolving demands of the IT industry. Our mission is to cultivate confident individuals equipped with the skills needed for successful careers in the industry, empowering them to make meaningful contributions to society.
+The Faculty of Computing Science and Applications offers an exciting suite of six undergraduate programs: BCA, B.Sc. Computer Science, B.Sc. Artificial Intelligence, B.Sc. Computer Science (Cyber Security), B.Sc. Animation & Multimedia, and B.Sc. Data Science. Additionally, we provide three postgraduate programs MCA, M.Sc. Computer Science, and M.Sc. Data Science & along with a Ph.D. program in Computer Science and Applications.
+To support our students growth, we offer state-of-the-art infrastructure, including modern computer labs equipped with advanced technology. Our faculty members are highly qualified, with extensive academic and industrial experience in their fields, fostering a professional learning environment that ensures students receive the highest quality education.
+Beyond academic excellence, we focus on preparing students for career success through industry internships, certification programs, and hands-on workshops that provide practical experience and industry insights. With the support of a dedicated team of staff and a distinguished alumni network of over 3,000 members, our institution benefits from a community of scholars, innovators, and leaders who have made a lasting impact on both our institution and society.
+The Faculty of Computing Science and Applications is dedicated to delivering a thorough and rewarding educational experience, empowering students with the knowledge and skills essential for success in the ever-evolving field of computer science.
+PAGE URL: https://pmu.edu/about/bye-laws.aspx
+PAGE TITLE: Bye Laws | Periyar Maniammai Institute of Science & Technology
+NAV: ACCREDITATION AND RANKING
+NAV: GRIEVANCES & REDRESSAL COMMITTEE
+NAV: INTERNAL COMPLAINTS COMMITTEE
+LINK: ABOUT → https://pmu.edu/about/bye-laws.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/bye-laws.aspx#
+LINK: RESEARCH → https://pmu.edu/about/bye-laws.aspx#
+LINK: IQAC → https://pmu.edu/about/bye-laws.aspx#
+LINK: FACILITIES → https://pmu.edu/about/bye-laws.aspx#
+LINK: MORE + → https://pmu.edu/about/bye-laws.aspx#
+LINK: BYE LAWS & CONSTITUTION → https://pmu.edu/about/bye-laws.aspx
+LINK: ABOUT PMIST → https://pmu.edu/about/index.aspx
+LINK: HISTORY → https://pmu.edu/about/history.aspx
+LINK: CHANCELLOR → https://pmu.edu/about/chancellor.aspx
+LINK: GOVERNANCE → https://pmu.edu/about/governance.aspx
+LINK: MANAGEMENT → https://pmu.edu/about/management.aspx
+LINK: FINANCE OFFICER → https://pmu.edu/about/finance-officer.aspx
+LINK: DEANS → https://pmu.edu/about/deans.aspx
+LINK: DIRECTORS → https://pmu.edu/about/directors.aspx
+LINK: ACCREDITATION AND RANKING → https://pmu.edu/about/accreditation-and-ranking.aspx
+LINK: E-NEWS BULLETIN → https://pmu.edu/about/e-news-bulletin.aspx
+LINK: STATUTORY BODIES → https://pmu.edu/about/statutory-bodies.aspx
+LINK: ACADEMIC SCHEDULE → https://pmu.edu/about/academic-schedule.aspx
+LINK: COMMITTEE → https://pmu.edu/about/committee.aspx
+LINK: REGULATION ARCHIVE → https://pmu.edu/about/regulationarchive.aspx
+LINK: GRIEVANCES & REDRESSAL COMMITTEE → https://pmu.edu/about/grievances-and-redressal-committee.aspx
+LINK: PLANNING MONITORING → https://pmu.edu/about/planning-and-monitoring.aspx
+LINK: STUDENT ELECTION COUNCIL → https://pmu.edu/about/student-election-council.aspx
+LINK: UGC PUBLIC DISCLOSURE → https://pmu.edu/about/ugc-public-disclosure.aspx
+LINK: ACADEMIC CALENDER → https://pmu.edu/about/year-wise-calendar.aspx
+LINK: Constitution Details → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/kMob.pdf
+LINK: Bye Laws Details → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/gaCD.pdf
+GRIEVANCES & REDRESSAL COMMITTEE
+PAGE URL: https://pmu.edu/about/chancellor.aspx
+PAGE TITLE: Chancellor | Periyar Maniammai Institute of Science & Technology
+H4: LEADERSHIP AND CONTRIBUTIONS
+H4: A TRAILBLAZER IN SOCIAL REFORM AND EDUCATION
+H4: LITERARY AND EDITORIAL PURSUITS
+LINK: ABOUT → https://pmu.edu/about/chancellor.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/chancellor.aspx#
+LINK: RESEARCH → https://pmu.edu/about/chancellor.aspx#
+LINK: IQAC → https://pmu.edu/about/chancellor.aspx#
+LINK: FACILITIES → https://pmu.edu/about/chancellor.aspx#
+LINK: MORE + → https://pmu.edu/about/chancellor.aspx#
+Dr. K. Veeramani stands as a beacon of social reform, education, and community service, embodying the ideals of leadership, innovation, and unwavering dedication to societal progress. Inspired by the philosophy of Thanthai Periyar, he has relentlessly pursued the goals of social justice, education, and empowerment, reshaping institutions and transforming lives.
+Born: December 2, 1933, Cuddalore Old Town, Tamil Nadu, India
+Spouse: Thirumathi Mohana (Inter-caste marriage in 1958)
+Children: Two sons and two daughters
+- Master of Arts (Economics), Annamalai University, 1956 (Gold Medalist)
+- Bachelor of Law, University of Madras, 1960
+Assisted Thanthai Periyar in editing Viduthalai and spearheading social campaigns from 1956.
+Practiced law briefly before dedicating his life to activism and education.
+Editor of Viduthalai since 1978, shaping public discourse through his writings and speeches.
+Over six decades of addressing social issues globally through conferences, seminars, and public platforms.
+Through his steadfast commitment to Periyar's ideals, Dr. Veeramani has profoundly shaped society by making education, equality, and empowerment pillars of progress.
+His enduring legacy inspires millions to strive for a more just and equitable world.
+Dr. Veeramani has represented Indian rationalist and humanist ideals on international platforms, participating in conferences in the USA, Canada, Europe, and Asia.
+His lectures, including the G.U. Pope Memorial Lecture at the House of Lords, London, have inspired global audiences.
+Dr. Veeramani's contributions span various fields, including education, environmental sustainability, and women's empowerment. Some of his notable achievements include:
+Established pioneering institutions like Periyar Maniammai College of Technology for Women, the first engineering college exclusively for women. Founded initiatives like the Periyar IAS & IPS Coaching Centre to empower underprivileged students.
+Introduced a biogas unit at Periyar Maniammai University, converting waste into wealth through vermicomposting and sustainable energy practices.
+Founded Periyar Organization for Women Empowerment and Renaissance (POWER) and established free clinics, schools, and community colleges across Tamil Nadu.
+Recipient of the First International Award - "CIDA - Award of Excellence" - awarded by Canadian Government to Periyar Centenary Polytechnic College for its effective implementation of Community Development Scheme.
+Presented silver equal to his weight at a State Conference in Pudukkottai.
+Honored with gold equal to his weight at an international meet in Thanjavur, forming the Rs. 25 million D.K. Trust.
+PERIYAR AWARD FOR SOCIAL JUSTICE
+First recipient of this honor from the Government of Tamil Nadu.
+VEERAMANI AWARD FOR SOCIAL JUSTICE
+Instituted by Periyar International Inc. (USA) to honor leaders in social justice.
+DOCTOR OF LITERATURE (D.LITT.)
+Conferred by Alagappa University in 2003 for his relentless fight for social justice, women's empowerment, and opportunities for marginalized communities.
+Karuthukkanal" (Spark of Ideas) by Malaysia Dravidar Kazhagam.
+"Per Arivaalar" (Genius) by the Myanmar Self-Respect Association in 2003.
+A TRAILBLAZER IN SOCIAL REFORM AND EDUCATION
+Dr. K. Veeramani, a visionary leader and social reformer, has dedicated his life to fostering equality, education, and empowerment. His work has reshaped institutions, transformed lives, and redefined leadership in the pursuit of social justice. Inspired by his mentor Thanthai Periyar, Dr. Veeramani has championed causes that empower marginalized communities and advance societal progress.
+Secretary, Periyar Self-Respect Propaganda Institution Founder, multiple educational, healthcare, and community development initiatives
+Dr. Veeramani exemplifies the power of vision, action, and dedication to humanity. His life is a testament to the belief that transformative leadership can elevate entire communities.
+Dr. Veeramani is a prolific writer, having authored over 75 books in Tamil and English. He is also the editor of influential publications like Viduthalai (daily), Unmai (fortnightly), and The Modern Rationalist (monthly). His writings emphasize rationalist thought and humanist values.
+LITERARY AND EDITORIAL PURSUITS
+Dr. Veeramani has authored over 75 books in Tamil and English, addressing rationalist and humanist philosophies. He also serves as the editor of multiple publications, including:
+-The Modern Rationalist (monthly journal)
+Dr. K. Veeramani's life work underscores the profound impact of transformative leadership. He believes that education and social reform are vital to building a just and equitable society. Through his pioneering efforts, he has empowered generations, making a lasting contribution to humanity. Dr. Veeramani continues to inspire, reminding us that true leadership lies in dedicating one's intellect and resources for the greater good. His legacy is a testament to the power of vision, action, and the relentless pursuit of justice.
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/gaCD.pdf
+PAGE URL: https://pmu.edu/about/regulationarchive.aspx
+PAGE TITLE: Regulation Archive | Periyar Maniammai Institute of Science & Technology
+LINK: ABOUT → https://pmu.edu/about/regulationarchive.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/regulationarchive.aspx#
+LINK: RESEARCH → https://pmu.edu/about/regulationarchive.aspx#
+LINK: IQAC → https://pmu.edu/about/regulationarchive.aspx#
+LINK: FACILITIES → https://pmu.edu/about/regulationarchive.aspx#
+LINK: MORE + → https://pmu.edu/about/regulationarchive.aspx#
+LINK: Ph.D Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/GeFd.pdf
+LINK: MSW - 2 Years Programme Regulation 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/gXmi.pdf
+LINK: M.Sc Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/jC09.pdf
+LINK: M.Tech Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/nIwE.pdf
+LINK: M.A Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/xzPu.pdf
+LINK: MCA Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/iWc1.pdf
+LINK: BCA Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/rIQl.pdf
+LINK: M.com Regulation 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/Y8m2.pdf
+LINK: M.Arch Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/sJBo.pdf
+LINK: BBA Regulations - 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/m3SB.pdf
+LINK: B.Tech Regulation 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/pNhu.pdf
+LINK: B.Com Regulation 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/BW8A.pdf
+LINK: B.Ed Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/T4t7.pdf
+LINK: B.Sc, B.Ed Regulations 2020 to 2021 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/teyJ.pdf
+LINK: B.Arch Regulation 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/Aqc0.pdf
+LINK: B.Sc Regulations 2020 → https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/8sGZ.pdf
+MSW - 2 Years Programme Regulation 2020
+B.Sc, B.Ed Regulations 2020 to 2021
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/m3SB.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/Aqc0.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/teyJ.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/T4t7.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/iWc1.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/Y8m2.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/pNhu.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/8sGZ.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/GeFd.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/rIQl.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/sJBo.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/nIwE.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/jC09.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/xzPu.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/gXmi.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/BW8A.pdf
+PAGE URL: https://pmu.edu/about/student-election-council.aspx
+PAGE TITLE: Student Election Council | Periyar Maniammai Institute of Science & Technology
+H2: STUDENT COUNCIL ELECTION PROCEDURE
+H4: Student Council - Elected Members (2024 to 2025)
+H4: Class Representative Election Procedure
+LINK: ABOUT → https://pmu.edu/about/student-election-council.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/student-election-council.aspx#
+LINK: RESEARCH → https://pmu.edu/about/student-election-council.aspx#
+LINK: IQAC → https://pmu.edu/about/student-election-council.aspx#
+LINK: FACILITIES → https://pmu.edu/about/student-election-council.aspx#
+LINK: MORE + → https://pmu.edu/about/student-election-council.aspx#
+LINK: Student Elected List 2021 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2021.pdf
+LINK: Student Elected List 2020 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2020.pdf
+LINK: Student Elected List 2019 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2019.pdf
+LINK: Student Elected List 2018 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2018.pdf
+LINK: Student Elected List 2017 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2017.pdf
+LINK: Student Elected List 2016 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2016.pdf
+LINK: Student Elected List 2015 → https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2015.pdf
+LINK: 9443083629 → tel:+919443083629
+LINK: dircsas@pmu.edu → mailto:dircsas@pmu.edu
+In line with the UGC directions and recommendations of Lyngdoh Committee report we ensure strict compliance of the orders of the Hon'ble Supreme Court for the conduct of student council elections as per the guidelines. The student council election of Periyar Maniammai Institute of Science & Technology (PMIST) is conducted in a democratic way every year during August and the student council members are elected based on the Academic / Curricular / Co Curricular and other performance of the representatives of all the classes / Section and department of the University.
+Periyar Maniammai Institute of Science & Technology encourages the students to develop skills of good governance. Hence, these elections are organized to help them practice these skills and learn the skill of representation. Hence, the students have an experience in the skills of democratic representation and participation. As per PMIST norms, Students' Council is to be established every year during the first term and has to elect six representatives in various positions. (Two Advisors from final year, Chairperson and Vice-chairperson from third year, Secretary and Joint Secretary from second year).
+Student Council - Elected Members (2024 to 2025)
+S.No. Candidate Name / Reg. No Branch / Year Elected Candidate Photo
+1 S.Hariharan 1210120131025 IV ECE Advisor 1
+2 B. Sivasree 121011101429 IV Biotech Advisor 2
+3 R.Jeeva Balan 122012169309 III BSc CS Chairperson
+4 S.Salma 122011012824 III CSE Vice Chairperson
+5 S.Eniyan 123012162359 II BBA Secretary
+6 A.Akshaya 123011083025 II B.Com CA | S-II Joint Secretary
+STUDENT COUNCIL ELECTION PROCEDURE
+Undergraduates between ages 17 and 24 can contest. Although no academic criteria have been prescribed for the candidates to contest, however, they should not have any academic arrears in their election year. The candidates must be elected as a class representative by his/her class students. Candidates should have the minimum attendance of 80 percent. Candidates will not have criminal records i.e. they should not have been tried and/or convicted of any criminal offence or misdemeanour. They would also not have been subject to any disciplinary action by PMIST authorities. Candidates must be regular, full time students. The candidates violating this rule will be disqualified.
+Class Representative Election Procedure
+The election officer/Class in-charge can conduct the election. On the date of election, election officer shall go to the class room and ask for the nominations to be made on the spot. The election officer has to make sure the eligibility condition of the candidates and then writes the names of the contestants serially on the black board. Ballot papers are signed by the election officer and will be issued to the students. After that the election officers have to ask the voters to cast the vote. The voters have to write only one candidate's name on the ballot paper. After all the voters present in the room have cast their votes, the election officer asks them to settle down quietly while the ballots are taken out and tallied. If a candidate has obtained maximum votes, he/she is declared as the winner.
+As per the J.M.Lyngdoh committee recommendations, the direct elections to be conducted in Periyar Maniammai Institute of Science & Technology.
+Election is to be held annually and will be conducted within six weeks from the start of the academic session. The entire election process, from the date of filing nomination papers, campaigning and declaration of the results, should not exceed 10 days.
+No candidate will indulge in, nor abet, any activity, which may aggravate existing differences or cause tension between different castes and communities, religious or linguistic groups or groups of students. Criticism of other candidates will be confined to their policies and programmes, past record and work. Contestants will refrain from criticism of all aspects of private life not of other candidates. There will be no appeal to caste or communal feelings for votes and places of worship will not be used for electoral propaganda. No printed posters, pamphlets will be allowed and only hand-made material will be permitted at places notified by the authorities. Defacement or destruction of property of the university will not be permitted.
+Centre for Students and Administrative Service
+Periyar Maniammai Institute of Science & Technology (Deemed to be University),
+Periyar Nagar, Vallam, Thanjavur 613403, Tamil nadu, India.
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2019.pdf
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2020.pdf
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2015.pdf
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2018.pdf
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2017.pdf
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2016.pdf
+PAGE URL: https://pmu.edu/assets-v2/img/about/student-council/pdf/studentElectedList2021.pdf
+PAGE URL: https://pmu.edu/about/planning-and-monitoring.aspx
+PAGE TITLE: Planning and Monitoring | Periyar Maniammai Institute of Science & Technology
+H1: PLANNING AND MONITORING BOARD
+LINK: ABOUT → https://pmu.edu/about/planning-and-monitoring.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/planning-and-monitoring.aspx#
+LINK: RESEARCH → https://pmu.edu/about/planning-and-monitoring.aspx#
+LINK: IQAC → https://pmu.edu/about/planning-and-monitoring.aspx#
+LINK: FACILITIES → https://pmu.edu/about/planning-and-monitoring.aspx#
+LINK: MORE + → https://pmu.edu/about/planning-and-monitoring.aspx#
+S.No. Name & Address Designation Membership Details
+Periyar Maniammai Institute Of Science & Technology
+2 Dr.R.Balakrishnan, I.A.S (Retd.),
+Bhubaneswar - 751 001. External Expert Member
+3 Prof. V.N. Rajasekharan Pillai
+SIMSR Building, Vidyavihar East,
+Mumbai, Maharashtra 400 077 External Expert Member
+Vallam , Thanjavur - 613 403 Internal Faculty Member
+Vallam, Thanjavur - 613 403 Internal Faculty Member
+Vallam, Thanjavur - 613 403 Ex-Officio Secretary
+PAGE URL: https://pmu.edu/about/index.aspx
+PAGE TITLE: About | Periyar Maniammai Institute of Science & Technology
+LINK: ABOUT → https://pmu.edu/about/index.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/index.aspx#
+LINK: RESEARCH → https://pmu.edu/about/index.aspx#
+LINK: IQAC → https://pmu.edu/about/index.aspx#
+LINK: FACILITIES → https://pmu.edu/about/index.aspx#
+LINK: MORE + → https://pmu.edu/about/index.aspx#
+LINK: View → https://pmu.edu/assets-v2/img/about/index/pdf/organogram.pdf
+Periyar Maniammai Institute of Science & Technology is proud to be a unique institution of higher learning and academic excellence. In an endeavour to fulfil the dreams of our Mentor Thanthai Periyar and Annai Maniammaiyar, the University is dedicated to its societal responsibility for transforming students from different parts of India and abroad into stalwarts by igniting their hidden talents. As it is located in a rural area, the students are admitted from a wide range of calibre and by personal attention, and modern teaching methodology towards a Product / Process / Demo / Case Study teaching, they are shaped into career oriented professionals with bright future.
+The University is making efforts to create new horizons in the arena of technical education and research. Curriculum innovation is given priority by the University to make the courses industry and research oriented. The dedicated and qualified faculty members routinely preach and practice for outcome based learning which leads towards an excellent academic career for the betterment of the students.
+To be a University of global dynamism with excellence in knowledge and innovation ensuring social responsibility for creating an egalitarian society.
+Offering well balanced programmes with scholarly faculty and state-of-art facilities to impart high level of knowledge.
+Providing student - centered education and foster their growth in critical thinking, creativity, entrepreneurship, problem solving and collaborative work.
+Involving progressive and meaningful research with concern for sustainable development.
+Enabling the students to acquire the skills for global competencies.
+Inculcating Universal values, Self respect, Gender equality, Dignity and Ethics.
+Social Justice, gender justice, equity, and equality
+Skills and use of technology for global competency
+Societal needs towards sustainability
+Learning, a life - long process
+Basic, Societal, and applied research on Energy, Environment, and Empowerment
+The emblem of the Institution in the form of a circular disc carrying the name of the University in its peripheral has the picture of Thanthai Periyar and Annai Maniammaiyar with the background of a burning torch representing the reforms proposed by them for eradicating superstitions and social evils and also informing the world that they are the torch bearers of social causes in this part of the world.
+The words Think, Innovate and Transform inscribed at the pedestal of the emblem stand for the watch words that guided the life of Thanthai Periyar and they are the golden rules governing the curricular and extracurricular activities of the Institution.
+Our institution stands as a beacon of academic excellence, with a thriving network of 10,000+ alumni, a sprawling 114-acre campus, and a diverse offering of 60+ courses designed to meet the evolving needs of learners. Supported by 300+ esteemed professors, we foster a dynamic learning environment that empowers students to excel academically and professionally while contributing to society at large.
+PAGE URL: https://pmu.edu/assets-v2/img/about/index/pdf/organogram.pdf
+PAGE URL: https://pmu.edu/PMIST-Admin/StatutoryBodiesPdf/kMob.pdf
+PAGE URL: https://pmu.edu/about/governance.aspx
+PAGE TITLE: Governance | Periyar Maniammai Institute of Science & Technology
+LINK: ABOUT → https://pmu.edu/about/governance.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/governance.aspx#
+LINK: RESEARCH → https://pmu.edu/about/governance.aspx#
+LINK: IQAC → https://pmu.edu/about/governance.aspx#
+LINK: FACILITIES → https://pmu.edu/about/governance.aspx#
+LINK: MORE + → https://pmu.edu/about/governance.aspx#
+LINK: Executive Council Members → https://pmu.edu/about/executive-council-members.aspx
+LINK: Finance Committe → https://pmu.edu/about/finance-committe.aspx
+LINK: Academic Council Members → https://pmu.edu/about/academic-council-members.aspx
+PAGE URL: https://pmu.edu/about/executive-council-members.aspx
+PAGE TITLE: Executive Council Members | Periyar Maniammai Institute of Science & Technology
+H1: MEMBERS OF EXECUTIVE COUNCIL
+LINK: ABOUT → https://pmu.edu/about/executive-council-members.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/executive-council-members.aspx#
+LINK: RESEARCH → https://pmu.edu/about/executive-council-members.aspx#
+LINK: IQAC → https://pmu.edu/about/executive-council-members.aspx#
+LINK: FACILITIES → https://pmu.edu/about/executive-council-members.aspx#
+LINK: MORE + → https://pmu.edu/about/executive-council-members.aspx#
+S.No. Name & Address Membership Details
+Periyar Maniammai Institute of Science & Technology
+Thanjavur - 613 403. Secretary
+Dindigul - 624002. UGC Nominee
+Vallam, Thanjavur - 613 403. Member
+No.1B, Annamma Naicker Street,
+Adayar, Chennai - 600 020. Member
+Puducherry Technological University,
+(Erstwhile Pondicherry Engineering
+Dean (Academic Courses) & Professor,
+Vallam, Thanjavur - 613 403 Member
+Dean (Learning & Development) & Professor,
+Department of Computer Applications,
+Professor, Department of Computer Science & Engineering,
+Associate Professor, Department of Civil Engineering,
+Department of Computer Science & Engineering,
+PAGE URL: https://pmu.edu/about/academic-council-members.aspx
+PAGE TITLE: Academic Council Members | Periyar Maniammai Institute of Science & Technology
+H1: LIST OF ACADEMIC COUNCIL MEMBERS
+LINK: ABOUT → https://pmu.edu/about/academic-council-members.aspx#
+LINK: ACADEMICS → https://pmu.edu/about/academic-council-members.aspx#
+LINK: RESEARCH → https://pmu.edu/about/academic-council-members.aspx#
+LINK: IQAC → https://pmu.edu/about/academic-council-members.aspx#
+LINK: FACILITIES → https://pmu.edu/about/academic-council-members.aspx#
+LINK: MORE + → https://pmu.edu/about/academic-council-members.aspx#
+LIST OF ACADEMIC COUNCIL MEMBERS
+1 Dr. V. Ramachandran Chairperson Vice Chancellor
+2 Dr. R. Malliga Pro - Vice Chancellor
+3 Dr. P. K. Srividhya Secretary Registrar
+4 Dr. AR. Umayal Sundari Dean (Academic Courses)
+5 Dr. D. Ruby Dean(Learning And Development)
+7 Dr. S. Arumugam Controller Of Examinations (I/C)
+8 Dr. C. V. Subramanian Professor
+9 Dr. K. Nithiyananthan Professor
+Dean, Faculty Of Engineering And Technology
+10 Dr. M. Chandrakumar Peter Associate Professor
+Dean, Faculty Of Computing Science And Applications
+11 Dr. S. Buvaneswari Associate Professor
+Dean, Faculty Of Science And Humanities / Head,
+Department Of Foundation Courses
+13 Dr. J. Sathyapriya Professor
+Dean, Faculty Of Management Studies & Director (I/C),
+Centre For Human Resource Development
+14 Dr. C. Rajanandhini Associate Professor
+Associate Dean (Academic Courses) & Director (I/C) CNGN
+15 Dr. D. Jeyasimman Professor
+Director (Research, Training And Publications)
+Director (Innovation, IPR And Community Engagement)
+18 Dr. S. Appavu Alias Balamurugan Professor
+Director (Sponsored Research And MoU)
+19 Dr. M. Sharmila Begum Professor
+20 Dr. N. Muruganantham Professor
+Director, Centre For Students And Administrative Services
+21 Dr. D. Maghesh Kumar Associate Professor
+Director, Centre For Institute Industry Interaction
+23 Dr. D. Umamaheswari Professor
+24 Dr. N. Srinivasan Professor
+Director / Centre Of Excellence For Periyar Thought
+25 Dr. A. Ashok Kumar Professor
+26 Dr. R. Rakesh Assistant Professor (SG)
+27 Dr. N. Ramesh Babu Professor
+Director, Periyar Engineering Consultancy Services
+28 Dr. J. Santhosh Assistant Professor (SG)
+Director (I/C), Centre For Energy And Environment
+29 Dr. K. Selvakumar Assistant Professor (SG)
+Director (I/C), Dr. Kalaignar M. Karunanidhi Centre For Political Science
+30 Dr. A. Anand Jerard Sebastine Associate Professor
+Director (I/C), Centre For Rural Development
+31 Dr. T. Narmadha Director (I/C), Library
+32 Dr. D. Ramesh Director, Physical Education
+33 Ar. K. Jasmine Vidhya Associate Professor & Head,
+34 Dr. I. Karthic Subramaniayan Assistant Professor (SG) & Head,
+Department Of Aerospace Engineering
+35 Dr. K. Geetha Associate Professor & Head,
+36 Dr. D. Thaiyalnayaki Assistant Professor (SG) & Head,
+Department Of Civil Engineering
+37 Dr. R. Poonguzhali Professor & Head,
+Department Of Computer Science And Engineering
+38 Dr. S. Janani Professor & Head,
+Department Of Electronics And Communication Engineering
+39 Dr. K. Maruliya Begam Associate Professor & Head,
+Department Of Electrical And Electronics Engineering
+40 Dr. P. Prabaharan Graceraj Associate Professor & Head,
+Department Of Mechanical Engineering
+41 Dr. A. Immaculate Mercy Associate Professor & Head,
+Department Of Computer Applications
+42 Dr. D. Christy Sujatha Associate Professor & Head,
+Department Of Computer Science
+43 Dr. A. Muthamizh Selvan Associate Professor & Head,
+44 Dr. A. Sasikala Professor & Head,
+45 Dr. S. Sundaranayagi Assistant Professor (SG) & Head, Department Of Chemistry
+46 Dr. P. Gayathri Associate Professor & Head,
+47 Dr. G. Thamilvanan Professor & Head,
+48 Dr. S. Parameswaran Assistant Professor (SS) & Head,
+49 Dr. D. Aarthi Saravanan Assistant Professor (SS) & Head,
+Department Of Political Science
+50 Mr. Callaghan Gerard Patrick Assistant Professor & Head (I/C),
+51 Dr. A. N. Christy Assistant Professor (SG) & Head,
+52 Dr. P. Guru Professor & Head
+Department Of Management Studies
+53 Dr. S.P. Kulandaivel Babu Professor
+54 Dr. S. Senthamil Kumar Professor
+56 Dr. KVR. Rajandran Professor
+58 Dr. V. A. Shanmugavelu Associate Professor
+59 Dr. A. E. Narayanan Associate Professor
+60 Dr. J. Kesavan Associate Professor
+61 Dr. V. Srithar Assistant Professor (SG)
+62 Dr. A. P. Aruna CEO / Periyar Technology Business Incubator (PTBI)
+63 Dr. M. A. Sikandar Registrar
+Jamia Hamdard (Deemed To Be University), Hamdard Nagar,
+Department Of Architecture & Dean (Institutional Development & Alumni Relations)
+National Institute Of Technology, Trichy
+65 Dr. G. Lakshmi Sutha Dean (Academic)
+National Institute Of Technology, Puducherry (Ministry Of Education, Govt. Of India)
+67 Dr. Latha Tamilselvan Professor
+Department Of Information Technology & Director (Management Information Systems)
+B.S. Abdur Rahman Crescent Institute Of Science & Technology,
+68 Dr. V. P. Sriraman Associate Professor
+Bharathidasan Institute Of Management (BIM),
